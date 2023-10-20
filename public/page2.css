@@ -1,0 +1,323 @@
+.page2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.page2-page2 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: #ffefe2;
+}
+.page2-text {
+  top: 210px;
+  left: 0px;
+  color: rgb(255, 113, 113);
+  right: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gloria Hallelujah;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page2-container01 {
+  top: 301px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 94px;
+  font-size: 22px;
+  font-family: Gloria Hallelujah;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  
+}
+.page2-graybackgroundrectangle {
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 94px;
+  font-size: 60px;
+  position: absolute;
+}
+.page2-weightgainrectangle {
+  color: #fef3ea;
+  top: 0px;
+  left: 0px;
+  right: 50px;
+  width: 200px;
+  height: 60px;
+  margin: 10px;
+  position: absolute;
+}
+
+.filler-class {
+  width: 20px;
+}
+.page2-container02 {
+  top: 423px;
+  left: 0px;
+  right: 0px;
+  font-size: 22px;
+  width: 550px;
+  height: 69px;
+  font-family: Gloria Hallelujah;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.page2-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 225px;
+  font-family: Gloria Hallelujah;
+  height: 57px;
+  position: absolute;
+}
+.page2-rectangle21 {
+  top: 0px;
+  border-radius: 25px;
+  right: 1px;
+  width: 225px;
+  font-family: Gloria Hallelujah;
+  height: 57px;
+  position: absolute;
+}
+.page2-container03 {
+  top: 750px;
+  left: 0px;
+  font-size: 22px;
+  right: 0px;
+  width: 473px;
+  font-family: Gloria Hallelujah;
+  height: 59px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: center;
+}
+.page2-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 473px;
+  height: 59px;
+  position: absolute;
+}
+.page2-container04 {
+  top: 535px;
+  font-family: Gloria Hallelujah;
+  left: 0px;
+  font-size: 22px;
+  right: 0px;
+  width: 573px;
+  height: 70px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.page2-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 473px;
+  height: 59px;
+  position: absolute;
+}
+.page2-rectangle31 {
+  left: 0px;
+  right: 0px;
+  width: 473px;
+  bottom: -81px;
+  height: 59px;
+  margin: auto;
+  position: absolute;
+}
+.page2-container05 {
+  top: 640px;
+  left: 0px;
+  right: 0px;
+  width: 473px;
+  height: 59px;
+  font-family: Gloria Hallelujah;
+  font-size: 22px;
+  border-radius: 25px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.page2-container06 {
+  top: 0px;
+  left: 0px;
+  width: 473px;
+  height: 59px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.page2-rectangle5 {
+  top: 0px;
+  left: 0px;
+  width: 473px;
+  height: 59px;
+  position: absolute;
+}
+.page2-container07 {
+  top: 40px;
+  right: 40px;
+  width: 171px;
+  height: 57px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.page2-signinbutton {
+  top: 2px;
+  left: 0px;
+  width: 167px;
+  height: 55px;
+  position: absolute;
+}
+.page2-text2 {
+  background-color: rgba(126, 198, 54, 1);
+  top: 0px;
+  left: 0px;
+  border-radius: 25px;
+  color: rgb(0, 0, 0);
+  width: 197px;
+  line-height: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gloria Hallelujah;
+}
+.page2-text2:active{
+  background-color: rgb(98, 155, 42);
+}
+.page2-container08 {
+  top: 747px;
+  left: 0px;
+  right: 0px;
+  width: 5px;
+  height: 1px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.page2-arrow1 {
+  top: 0px;
+  left: 0px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+}
+.page2-arrow2 {
+  top: 838px;
+  left: 1172px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+}
+.page2-container09 {
+  top: 895px;
+  left: 0px;
+  right: 0px;
+  width: 167px;
+  height: 59px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.page2-nextbutton {
+  top: 4px;
+  left: 0px;
+  width: 167px;
+  height: 55px;
+  position: absolute;
+}
+.page2-text4 {
+  top: 4px;
+  color: rgb(0, 0, 0);
+  background-color: rgba(126, 198, 54, 1);
+  border-radius: 25px;
+  right: 0px;
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gloria Hallelujah;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page2-text10 {
+  top: 40px;
+  color: rgb(0, 0, 0);
+  right: 0px;
+  left: 4px;
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gloria Hallelujah;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page2-text4:active{
+  background-color: rgb(98, 155, 42);
+}
+.page2-text6 {
+  top: 78px;
+  left: 0px;
+  color: rgba(126, 198, 54, 1);
+  right: 0px;
+  width: 385px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gloria Hallelujah;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.font{
+  background-color:aqua;
+}
+.round{
+  border-radius: 25px;
+}
