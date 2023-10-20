@@ -1,0 +1,4189 @@
+{
+    "west-village": {
+        "breakfast": {
+            "Hardboiled Egg": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 77.5,
+                    "nf_total_fat": 5.31,
+                    "nf_sodium": 62,
+                    "nf_sugars": 0.56,
+                    "nf_protein": 6.29
+                }
+            },
+            "Scrambled Eggs": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 90.89,
+                    "nf_total_fat": 6.7,
+                    "nf_sodium": 88.45,
+                    "nf_sugars": 0.85,
+                    "nf_protein": 6.09
+                }
+            },
+            "Assorted Yogurt Cups": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 142.88,
+                    "nf_total_fat": 3.52,
+                    "nf_sodium": 158.76,
+                    "nf_sugars": 15.97,
+                    "nf_protein": 11.91
+                }
+            },
+            "Veggie Sausage": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 96.9,
+                    "nf_total_fat": 6.9,
+                    "nf_sodium": 337.44,
+                    "nf_sugars": 0,
+                    "nf_protein": 7.71
+                }
+            },
+            "Biscuit and Gravy": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 376.3,
+                    "nf_total_fat": 20.57,
+                    "nf_sodium": 955.41,
+                    "nf_sugars": 1.69,
+                    "nf_protein": 13.6
+                }
+            },
+            "Chicken Sausage": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 147,
+                    "nf_total_fat": 7.83,
+                    "nf_sodium": 498.75,
+                    "nf_sugars": 0,
+                    "nf_protein": 17.92
+                }
+            },
+            "Raisins": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 128.57,
+                    "nf_total_fat": 0.2,
+                    "nf_sodium": 4.73,
+                    "nf_sugars": 25.45,
+                    "nf_protein": 1.32
+                }
+            },
+            "Brown Sugar": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 11.4,
+                    "nf_total_fat": 0,
+                    "nf_sodium": 0.84,
+                    "nf_sugars": 2.91,
+                    "nf_protein": 0
+                }
+            },
+            "Watermelon": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 85.8,
+                    "nf_total_fat": 0.43,
+                    "nf_sodium": 2.86,
+                    "nf_sugars": 17.73,
+                    "nf_protein": 1.74
+                }
+            },
+            "Grapes": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 33.81,
+                    "nf_total_fat": 0.08,
+                    "nf_sodium": 0.98,
+                    "nf_sugars": 7.59,
+                    "nf_protein": 0.35
+                }
+            },
+            "Honeydew": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 460.8,
+                    "nf_total_fat": 1.79,
+                    "nf_sodium": 230.4,
+                    "nf_sugars": 103.94,
+                    "nf_protein": 6.91
+                }
+            },
+            "GF Oatmeal": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 166.14,
+                    "nf_total_fat": 3.56,
+                    "nf_sodium": 9.36,
+                    "nf_sugars": 0.63,
+                    "nf_protein": 5.94
+                }
+            },
+            "Mixed Berries": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 64.72,
+                    "nf_total_fat": 0.61,
+                    "nf_sodium": 1.42,
+                    "nf_sugars": 8.66,
+                    "nf_protein": 1.4
+                }
+            },
+            "Apple Slices": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 56.68,
+                    "nf_total_fat": 0.19,
+                    "nf_sodium": 1.09,
+                    "nf_sugars": 11.33,
+                    "nf_protein": 0.28
+                }
+            },
+            "Orange Slices": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 8.33,
+                    "nf_total_fat": 0.03,
+                    "nf_sodium": 0.17,
+                    "nf_sugars": 1.45,
+                    "nf_protein": 0.15
+                }
+            }
+        },
+        "lunch": {
+            "Grilled Pork Chops in Gravy": {
+                "type": [],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 328.13,
+                    "nf_total_fat": 17.36,
+                    "nf_sodium": 86.35,
+                    "nf_sugars": 0,
+                    "nf_protein": 40.21
+                }
+            },
+            "Fried Chicken (Halal)": {
+                "type": [
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 376.6,
+                    "nf_total_fat": 20.89,
+                    "nf_sodium": 117.6,
+                    "nf_sugars": 0,
+                    "nf_protein": 39.98
+                }
+            },
+            "Blackened Salmon": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 467.62,
+                    "nf_total_fat": 28.03,
+                    "nf_sodium": 138.47,
+                    "nf_sugars": 0,
+                    "nf_protein": 50.17
+                }
+            },
+            "Vegan Collard Greens": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 62.7,
+                    "nf_total_fat": 1.37,
+                    "nf_sodium": 28.5,
+                    "nf_sugars": 0.76,
+                    "nf_protein": 5.15
+                }
+            },
+            "Stewed Green Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 43.75,
+                    "nf_total_fat": 0.35,
+                    "nf_sodium": 1.25,
+                    "nf_sugars": 4.54,
+                    "nf_protein": 2.36
+                }
+            },
+            "Corn Bread Stuffing": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 179,
+                    "nf_total_fat": 8.8,
+                    "nf_sodium": 526,
+                    "nf_sugars": 0,
+                    "nf_protein": 2.9
+                }
+            },
+            "Macaroni and Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 376.2,
+                    "nf_total_fat": 16.39,
+                    "nf_sodium": 669.24,
+                    "nf_sugars": 8.45,
+                    "nf_protein": 9.68
+                }
+            },
+            "Hamburger Patty (Halal)": {
+                "type": [
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 197.2,
+                    "nf_total_fat": 11.92,
+                    "nf_sodium": 67.15,
+                    "nf_sugars": 0,
+                    "nf_protein": 20.93
+                }
+            },
+            "Hamburger Bun": {
+                "type": [
+                    "Vegan",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 127.88,
+                    "nf_total_fat": 1.73,
+                    "nf_sodium": 230,
+                    "nf_sugars": 2.93,
+                    "nf_protein": 4.54
+                }
+            },
+            "Home Fry Chicken Breast": {
+                "type": [],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 198,
+                    "nf_total_fat": 4.28,
+                    "nf_sodium": 88.8,
+                    "nf_sugars": 0,
+                    "nf_protein": 37.22
+                }
+            },
+            "Hot Dog": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 154.56,
+                    "nf_total_fat": 14.09,
+                    "nf_sodium": 408.96,
+                    "nf_sugars": 0.61,
+                    "nf_protein": 5.61
+                }
+            },
+            "Hot Dog Bun": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 144.56,
+                    "nf_total_fat": 1.96,
+                    "nf_sodium": 260,
+                    "nf_sugars": 3.31,
+                    "nf_protein": 5.13
+                }
+            },
+            "Mushroom and Onion Cheese Burger": {
+                "type": [],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 3.36,
+                    "nf_total_fat": 0.06,
+                    "nf_sodium": 0.24,
+                    "nf_sugars": 0.28,
+                    "nf_protein": 0.26
+                }
+            },
+            "Beyond Burgers": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 540.14,
+                    "nf_total_fat": 26.56,
+                    "nf_sodium": 791,
+                    "nf_sugars": null,
+                    "nf_protein": 34.28
+                }
+            },
+            "Shoestring Fries": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 365.04,
+                    "nf_total_fat": 17.23,
+                    "nf_sodium": 245.7,
+                    "nf_sugars": 0.35,
+                    "nf_protein": 4.01
+                }
+            },
+            "Mac and Cheese Bites": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 87.05,
+                    "nf_total_fat": 5.97,
+                    "nf_sodium": 98.01,
+                    "nf_sugars": 0.22,
+                    "nf_protein": 2.53
+                }
+            },
+            "Tandoori Chicken Drumsticks Halal": {
+                "type": [
+                    "Halal"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 167.44,
+                    "nf_total_fat": 8.18,
+                    "nf_sodium": 89.18,
+                    "nf_sugars": 0,
+                    "nf_protein": 21.87
+                }
+            },
+            "Tofu Tikka Marsala": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 75.53,
+                    "nf_total_fat": 4.79,
+                    "nf_sodium": 3.64,
+                    "nf_sugars": 0.65,
+                    "nf_protein": 9.08
+                }
+            },
+            "Navarathan Korma": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 460.98,
+                    "nf_total_fat": 32.91,
+                    "nf_sodium": 514.94,
+                    "nf_sugars": 5.92,
+                    "nf_protein": 27.99
+                }
+            },
+            "Garlic Cauliflower": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 4.47,
+                    "nf_total_fat": 0.02,
+                    "nf_sodium": 0.51,
+                    "nf_sugars": 0.03,
+                    "nf_protein": 0.19
+                }
+            },
+            "Broccoli": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 3.5,
+                    "nf_total_fat": 0.04,
+                    "nf_sodium": 4.1,
+                    "nf_sugars": 0.14,
+                    "nf_protein": 0.24
+                }
+            },
+            "Curried Rice": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 296.52,
+                    "nf_total_fat": 6.53,
+                    "nf_sodium": 677.24,
+                    "nf_sugars": 0.75,
+                    "nf_protein": 5.42
+                }
+            },
+            "Ancient Grain and Kale": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 36.4,
+                    "nf_total_fat": 0.52,
+                    "nf_sodium": 29.9,
+                    "nf_sugars": 1.63,
+                    "nf_protein": 2.47
+                }
+            },
+            "Samosa": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 261.5,
+                    "nf_total_fat": 17.24,
+                    "nf_sodium": 423.3,
+                    "nf_sugars": 1.59,
+                    "nf_protein": 3.49
+                }
+            },
+            "Vegetarian Chicken Nuggets": {
+                "type": [
+                    "Vegan",
+                    "Halal"
+                ],
+                "restaurant": "Vegan/Vegetarian",
+                "nutritionData": {
+                    "nf_calories": 64.52,
+                    "nf_total_fat": 1.73,
+                    "nf_sodium": 274.39,
+                    "nf_sugars": 1.07,
+                    "nf_protein": 3.34
+                }
+            },
+            "Roasted Rainbow Carrots": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vegan/Vegetarian",
+                "nutritionData": {
+                    "nf_calories": 16.1,
+                    "nf_total_fat": 0.08,
+                    "nf_sodium": 26.68,
+                    "nf_sugars": 1.59,
+                    "nf_protein": 0.35
+                }
+            },
+            "Steamed Broccoli": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vegan/Vegetarian",
+                "nutritionData": {
+                    "nf_calories": 27.3,
+                    "nf_total_fat": 0.32,
+                    "nf_sodium": 31.98,
+                    "nf_sugars": 1.08,
+                    "nf_protein": 1.86
+                }
+            },
+            "Steamed Jasmine Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vegan/Vegetarian",
+                "nutritionData": {
+                    "nf_calories": 205.4,
+                    "nf_total_fat": 0.44,
+                    "nf_sodium": 1.58,
+                    "nf_sugars": 0.08,
+                    "nf_protein": 4.25
+                }
+            },
+            "Cheese Pizza": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 452.2,
+                    "nf_total_fat": 16.47,
+                    "nf_sodium": 1016.6,
+                    "nf_sugars": 6.09,
+                    "nf_protein": 19.36
+                }
+            },
+            "Pepperoni": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 10.08,
+                    "nf_total_fat": 0.93,
+                    "nf_sodium": 31.64,
+                    "nf_sugars": 0,
+                    "nf_protein": 0.39
+                }
+            },
+            "Greek Pizza": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 233.68,
+                    "nf_total_fat": 12.04,
+                    "nf_sodium": 410.05,
+                    "nf_sugars": 2.37,
+                    "nf_protein": 7.87
+                }
+            },
+            "Meat Lovers Pizza": {
+                "type": [],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 385.23,
+                    "nf_total_fat": 18.88,
+                    "nf_sodium": 857.54,
+                    "nf_sugars": 3.73,
+                    "nf_protein": 20.23
+                }
+            },
+            "Vegan Meatballs": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 35.46,
+                    "nf_total_fat": 1.62,
+                    "nf_sodium": 99,
+                    "nf_sugars": 0.23,
+                    "nf_protein": 3.78
+                }
+            },
+            "Ground Beef": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 308.45,
+                    "nf_total_fat": 19.69,
+                    "nf_sodium": 103.19,
+                    "nf_sugars": 0,
+                    "nf_protein": 30.62
+                }
+            },
+            "Alfredo Sauce": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 268.64,
+                    "nf_total_fat": 25.41,
+                    "nf_sodium": 605.78,
+                    "nf_sugars": 0.79,
+                    "nf_protein": 7.08
+                }
+            },
+            "Marinara Sauce": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 66,
+                    "nf_total_fat": 2.13,
+                    "nf_sodium": 576.84,
+                    "nf_sugars": 6.48,
+                    "nf_protein": 1.83
+                }
+            },
+            "Penne Pasta": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 195.92,
+                    "nf_total_fat": 1.15,
+                    "nf_sodium": 1.24,
+                    "nf_sugars": 0.69,
+                    "nf_protein": 7.19
+                }
+            },
+            "Linguini Pasta": {
+                "type": [
+                    "Vegan",
+                    "Halal"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 213.3,
+                    "nf_total_fat": 1.26,
+                    "nf_sodium": 1.35,
+                    "nf_sugars": 0.76,
+                    "nf_protein": 7.83
+                }
+            },
+            "Clam Chowder": {
+                "type": [
+                    "Halal"
+                ],
+                "restaurant": "Soup",
+                "nutritionData": {
+                    "nf_calories": 200.66,
+                    "nf_total_fat": 10.01,
+                    "nf_sodium": 871.22,
+                    "nf_sugars": 0.58,
+                    "nf_protein": 6.63
+                }
+            },
+            "Tomato Vegetable Soup": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Soup",
+                "nutritionData": {
+                    "nf_calories": 159.06,
+                    "nf_total_fat": 3.76,
+                    "nf_sodium": 1219.46,
+                    "nf_sugars": 3.95,
+                    "nf_protein": 5.83
+                }
+            },
+            "Herb Roasted Chicken": {
+                "type": [
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 4.83,
+                    "nf_total_fat": 0.11,
+                    "nf_sodium": 3.46,
+                    "nf_sugars": 0.08,
+                    "nf_protein": 0.36
+                }
+            },
+            "Blackened Steak": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 614.38,
+                    "nf_total_fat": 40.77,
+                    "nf_sodium": 114.92,
+                    "nf_sugars": 0,
+                    "nf_protein": 57.81
+                }
+            },
+            "Cajun Pork Loin": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 163.2,
+                    "nf_total_fat": 7.5,
+                    "nf_sodium": 39.1,
+                    "nf_sugars": 0,
+                    "nf_protein": 22.48
+                }
+            },
+            "Quinoa": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 111,
+                    "nf_total_fat": 1.78,
+                    "nf_sodium": 6.48,
+                    "nf_sugars": 0.8,
+                    "nf_protein": 4.07
+                }
+            },
+            "Veggie Dirty Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 59.15,
+                    "nf_total_fat": 0.14,
+                    "nf_sodium": 31.85,
+                    "nf_sugars": 2.84,
+                    "nf_protein": 2.6
+                }
+            },
+            "Cannellini Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 248.81,
+                    "nf_total_fat": 0.63,
+                    "nf_sodium": 10.74,
+                    "nf_sugars": 0.61,
+                    "nf_protein": 17.42
+                }
+            },
+            "Red Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 224.79,
+                    "nf_total_fat": 0.89,
+                    "nf_sodium": 1.77,
+                    "nf_sugars": 0.57,
+                    "nf_protein": 15.35
+                }
+            },
+            "Cajun Potatoes": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 160.89,
+                    "nf_total_fat": 0.22,
+                    "nf_sodium": 17.3,
+                    "nf_sugars": 2.04,
+                    "nf_protein": 4.33
+                }
+            },
+            "Roasted Corn": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 175.45,
+                    "nf_total_fat": 7.71,
+                    "nf_sodium": 67.32,
+                    "nf_sugars": 9.08,
+                    "nf_protein": 4.8
+                }
+            },
+            "Mixed Peppers": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 31.54,
+                    "nf_total_fat": 0.23,
+                    "nf_sodium": 2.28,
+                    "nf_sugars": 2.88,
+                    "nf_protein": 1.08
+                }
+            },
+            "Green Beans with Tomatoes": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 43.75,
+                    "nf_total_fat": 0.35,
+                    "nf_sodium": 1.25,
+                    "nf_sugars": 4.54,
+                    "nf_protein": 2.36
+                }
+            },
+            "Kale and Onions": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 36.4,
+                    "nf_total_fat": 0.52,
+                    "nf_sodium": 29.9,
+                    "nf_sugars": 1.63,
+                    "nf_protein": 2.47
+                }
+            },
+            "Roasted Carrots": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 108.88,
+                    "nf_total_fat": 5.77,
+                    "nf_sodium": 573.59,
+                    "nf_sugars": 6.95,
+                    "nf_protein": 1.43
+                }
+            },
+            "Cauliflower": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 132.25,
+                    "nf_total_fat": 2.59,
+                    "nf_sodium": 86.25,
+                    "nf_sugars": 11.96,
+                    "nf_protein": 10.58
+                }
+            },
+            "MTO Omelets": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 323.47,
+                    "nf_total_fat": 25.32,
+                    "nf_sodium": 533.35,
+                    "nf_sugars": 0.62,
+                    "nf_protein": 21.13
+                }
+            },
+            "Vanilla Yogurt": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 144.5,
+                    "nf_total_fat": 2.13,
+                    "nf_sodium": 112.2,
+                    "nf_sugars": 23.46,
+                    "nf_protein": 8.38
+                }
+            },
+            "Strawberry Yogurt": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 168.3,
+                    "nf_total_fat": 1.96,
+                    "nf_sodium": 90.1,
+                    "nf_sugars": 31.69,
+                    "nf_protein": 6.77
+                }
+            },
+            "Dairy Free Yogurt": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 107.1,
+                    "nf_total_fat": 2.64,
+                    "nf_sodium": 119,
+                    "nf_sugars": 11.97,
+                    "nf_protein": 8.93
+                }
+            },
+            "Greek Yogurt": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 100.3,
+                    "nf_total_fat": 0.66,
+                    "nf_sodium": 61.2,
+                    "nf_sugars": 5.51,
+                    "nf_protein": 17.32
+                }
+            },
+            "Fresh Fruit": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 96.62,
+                    "nf_total_fat": 0.47,
+                    "nf_sodium": 2.65,
+                    "nf_sugars": 16.45,
+                    "nf_protein": 1.36
+                }
+            },
+            "Honey N` Oats Granola": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 63.84,
+                    "nf_total_fat": 0,
+                    "nf_sodium": 0.84,
+                    "nf_sugars": 17.25,
+                    "nf_protein": 0.06
+                }
+            },
+            "Cottage Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 106.58,
+                    "nf_total_fat": 4.68,
+                    "nf_sodium": 395.85,
+                    "nf_sugars": 2.9,
+                    "nf_protein": 12.09
+                }
+            }
+        },
+        "dinner": {
+            "Grilled Pork Chops in Gravy": {
+                "type": [],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 328.13,
+                    "nf_total_fat": 17.36,
+                    "nf_sodium": 86.35,
+                    "nf_sugars": 0,
+                    "nf_protein": 40.21
+                }
+            },
+            "Fried Chicken (Halal)": {
+                "type": [
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 376.6,
+                    "nf_total_fat": 20.89,
+                    "nf_sodium": 117.6,
+                    "nf_sugars": 0,
+                    "nf_protein": 39.98
+                }
+            },
+            "Blackened Salmon": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 467.62,
+                    "nf_total_fat": 28.03,
+                    "nf_sodium": 138.47,
+                    "nf_sugars": 0,
+                    "nf_protein": 50.17
+                }
+            },
+            "Vegan Collard Greens": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 62.7,
+                    "nf_total_fat": 1.37,
+                    "nf_sodium": 28.5,
+                    "nf_sugars": 0.76,
+                    "nf_protein": 5.15
+                }
+            },
+            "Stewed Green Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 43.75,
+                    "nf_total_fat": 0.35,
+                    "nf_sodium": 1.25,
+                    "nf_sugars": 4.54,
+                    "nf_protein": 2.36
+                }
+            },
+            "Corn Bread Stuffing": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 179,
+                    "nf_total_fat": 8.8,
+                    "nf_sodium": 526,
+                    "nf_sugars": 0,
+                    "nf_protein": 2.9
+                }
+            },
+            "Macaroni and Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 376.2,
+                    "nf_total_fat": 16.39,
+                    "nf_sodium": 669.24,
+                    "nf_sugars": 8.45,
+                    "nf_protein": 9.68
+                }
+            },
+            "Hamburger Patty (Halal)": {
+                "type": [
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 197.2,
+                    "nf_total_fat": 11.92,
+                    "nf_sodium": 67.15,
+                    "nf_sugars": 0,
+                    "nf_protein": 20.93
+                }
+            },
+            "Hamburger Bun": {
+                "type": [
+                    "Vegan",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 127.88,
+                    "nf_total_fat": 1.73,
+                    "nf_sodium": 230,
+                    "nf_sugars": 2.93,
+                    "nf_protein": 4.54
+                }
+            },
+            "Home Fry Chicken Breast": {
+                "type": [],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 198,
+                    "nf_total_fat": 4.28,
+                    "nf_sodium": 88.8,
+                    "nf_sugars": 0,
+                    "nf_protein": 37.22
+                }
+            },
+            "Hot Dog": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 154.56,
+                    "nf_total_fat": 14.09,
+                    "nf_sodium": 408.96,
+                    "nf_sugars": 0.61,
+                    "nf_protein": 5.61
+                }
+            },
+            "Hot Dog Bun": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 144.56,
+                    "nf_total_fat": 1.96,
+                    "nf_sodium": 260,
+                    "nf_sugars": 3.31,
+                    "nf_protein": 5.13
+                }
+            },
+            "Mushroom and Onion Cheese Burger": {
+                "type": [],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 3.36,
+                    "nf_total_fat": 0.06,
+                    "nf_sodium": 0.24,
+                    "nf_sugars": 0.28,
+                    "nf_protein": 0.26
+                }
+            },
+            "Beyond Burgers": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 540.14,
+                    "nf_total_fat": 26.56,
+                    "nf_sodium": 791,
+                    "nf_sugars": null,
+                    "nf_protein": 34.28
+                }
+            },
+            "Shoestring Fries": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 365.04,
+                    "nf_total_fat": 17.23,
+                    "nf_sodium": 245.7,
+                    "nf_sugars": 0.35,
+                    "nf_protein": 4.01
+                }
+            },
+            "Mac and Cheese Bites": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "White & Gold Grill",
+                "nutritionData": {
+                    "nf_calories": 87.05,
+                    "nf_total_fat": 5.97,
+                    "nf_sodium": 98.01,
+                    "nf_sugars": 0.22,
+                    "nf_protein": 2.53
+                }
+            },
+            "Green Curry Catfish Halal": {
+                "type": [
+                    "Halal"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 328.39,
+                    "nf_total_fat": 19.65,
+                    "nf_sodium": 887.17,
+                    "nf_sugars": 7.86,
+                    "nf_protein": 24.33
+                }
+            },
+            "Jackfruit BBQ Ginger": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 156.75,
+                    "nf_total_fat": 1.06,
+                    "nf_sodium": 3.3,
+                    "nf_sugars": 31.48,
+                    "nf_protein": 2.84
+                }
+            },
+            "Gochujang Chicken Wings": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 56.33,
+                    "nf_total_fat": 0.24,
+                    "nf_sodium": 894.63,
+                    "nf_sugars": 9.5,
+                    "nf_protein": 0.67
+                }
+            },
+            "Broccoli with Soy Ginger Dressing": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 3.5,
+                    "nf_total_fat": 0.04,
+                    "nf_sodium": 4.1,
+                    "nf_sugars": 0.14,
+                    "nf_protein": 0.24
+                }
+            },
+            "Mixed Vegetable Stir Fry": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 170.55,
+                    "nf_total_fat": 10.89,
+                    "nf_sodium": 916.57,
+                    "nf_sugars": 5.29,
+                    "nf_protein": 6.03
+                }
+            },
+            "Miso Glazed Sweet Potato": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 33.66,
+                    "nf_total_fat": 1.02,
+                    "nf_sodium": 633.76,
+                    "nf_sugars": 1.05,
+                    "nf_protein": 2.17
+                }
+            },
+            "Herb Garlic Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 276.81,
+                    "nf_total_fat": 10.32,
+                    "nf_sodium": 412.85,
+                    "nf_sugars": 1.36,
+                    "nf_protein": 4.22
+                }
+            },
+            "Chicken Egg Roll": {
+                "type": [],
+                "restaurant": "Ginger & Spice",
+                "nutritionData": {
+                    "nf_calories": 157.6,
+                    "nf_total_fat": 3.61,
+                    "nf_sodium": 382.4,
+                    "nf_sugars": 4.46,
+                    "nf_protein": 8.35
+                }
+            },
+            "Vegetarian Chicken Nuggets": {
+                "type": [
+                    "Vegan",
+                    "Halal"
+                ],
+                "restaurant": "Vegan/Vegetarian",
+                "nutritionData": {
+                    "nf_calories": 64.52,
+                    "nf_total_fat": 1.73,
+                    "nf_sodium": 274.39,
+                    "nf_sugars": 1.07,
+                    "nf_protein": 3.34
+                }
+            },
+            "Roasted Rainbow Carrots": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vegan/Vegetarian",
+                "nutritionData": {
+                    "nf_calories": 16.1,
+                    "nf_total_fat": 0.08,
+                    "nf_sodium": 26.68,
+                    "nf_sugars": 1.59,
+                    "nf_protein": 0.35
+                }
+            },
+            "Steamed Broccoli": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vegan/Vegetarian",
+                "nutritionData": {
+                    "nf_calories": 27.3,
+                    "nf_total_fat": 0.32,
+                    "nf_sodium": 31.98,
+                    "nf_sugars": 1.08,
+                    "nf_protein": 1.86
+                }
+            },
+            "Steamed Jasmine Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vegan/Vegetarian",
+                "nutritionData": {
+                    "nf_calories": 205.4,
+                    "nf_total_fat": 0.44,
+                    "nf_sodium": 1.58,
+                    "nf_sugars": 0.08,
+                    "nf_protein": 4.25
+                }
+            },
+            "Cheese Pizza": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 452.2,
+                    "nf_total_fat": 16.47,
+                    "nf_sodium": 1016.6,
+                    "nf_sugars": 6.09,
+                    "nf_protein": 19.36
+                }
+            },
+            "Pepperoni": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 10.08,
+                    "nf_total_fat": 0.93,
+                    "nf_sodium": 31.64,
+                    "nf_sugars": 0,
+                    "nf_protein": 0.39
+                }
+            },
+            "Greek Pizza": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 233.68,
+                    "nf_total_fat": 12.04,
+                    "nf_sodium": 410.05,
+                    "nf_sugars": 2.37,
+                    "nf_protein": 7.87
+                }
+            },
+            "Meat Lovers Pizza": {
+                "type": [],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 385.23,
+                    "nf_total_fat": 18.88,
+                    "nf_sodium": 857.54,
+                    "nf_sugars": 3.73,
+                    "nf_protein": 20.23
+                }
+            },
+            "Vegan Meatballs": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 35.46,
+                    "nf_total_fat": 1.62,
+                    "nf_sodium": 99,
+                    "nf_sugars": 0.23,
+                    "nf_protein": 3.78
+                }
+            },
+            "Ground Beef": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 308.45,
+                    "nf_total_fat": 19.69,
+                    "nf_sodium": 103.19,
+                    "nf_sugars": 0,
+                    "nf_protein": 30.62
+                }
+            },
+            "Alfredo Sauce": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 268.64,
+                    "nf_total_fat": 25.41,
+                    "nf_sodium": 605.78,
+                    "nf_sugars": 0.79,
+                    "nf_protein": 7.08
+                }
+            },
+            "Marinara Sauce": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 66,
+                    "nf_total_fat": 2.13,
+                    "nf_sodium": 576.84,
+                    "nf_sugars": 6.48,
+                    "nf_protein": 1.83
+                }
+            },
+            "Penne Pasta": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 195.92,
+                    "nf_total_fat": 1.15,
+                    "nf_sodium": 1.24,
+                    "nf_sugars": 0.69,
+                    "nf_protein": 7.19
+                }
+            },
+            "Linguini Pasta": {
+                "type": [
+                    "Vegan",
+                    "Halal"
+                ],
+                "restaurant": "Leaning Tower",
+                "nutritionData": {
+                    "nf_calories": 213.3,
+                    "nf_total_fat": 1.26,
+                    "nf_sodium": 1.35,
+                    "nf_sugars": 0.76,
+                    "nf_protein": 7.83
+                }
+            },
+            "Clam Chowder": {
+                "type": [
+                    "Halal"
+                ],
+                "restaurant": "Soup",
+                "nutritionData": {
+                    "nf_calories": 200.66,
+                    "nf_total_fat": 10.01,
+                    "nf_sodium": 871.22,
+                    "nf_sugars": 0.58,
+                    "nf_protein": 6.63
+                }
+            },
+            "Tomato Vegetable Soup": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Soup",
+                "nutritionData": {
+                    "nf_calories": 159.06,
+                    "nf_total_fat": 3.76,
+                    "nf_sodium": 1219.46,
+                    "nf_sugars": 3.95,
+                    "nf_protein": 5.83
+                }
+            },
+            "Herb Roasted Chicken": {
+                "type": [
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 4.83,
+                    "nf_total_fat": 0.11,
+                    "nf_sodium": 3.46,
+                    "nf_sugars": 0.08,
+                    "nf_protein": 0.36
+                }
+            },
+            "Blackened Steak": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 614.38,
+                    "nf_total_fat": 40.77,
+                    "nf_sodium": 114.92,
+                    "nf_sugars": 0,
+                    "nf_protein": 57.81
+                }
+            },
+            "Cajun Pork Loin": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 163.2,
+                    "nf_total_fat": 7.5,
+                    "nf_sodium": 39.1,
+                    "nf_sugars": 0,
+                    "nf_protein": 22.48
+                }
+            },
+            "Quinoa": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 111,
+                    "nf_total_fat": 1.78,
+                    "nf_sodium": 6.48,
+                    "nf_sugars": 0.8,
+                    "nf_protein": 4.07
+                }
+            },
+            "Veggie Dirty Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 59.15,
+                    "nf_total_fat": 0.14,
+                    "nf_sodium": 31.85,
+                    "nf_sugars": 2.84,
+                    "nf_protein": 2.6
+                }
+            },
+            "Cannellini Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 248.81,
+                    "nf_total_fat": 0.63,
+                    "nf_sodium": 10.74,
+                    "nf_sugars": 0.61,
+                    "nf_protein": 17.42
+                }
+            },
+            "Red Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 224.79,
+                    "nf_total_fat": 0.89,
+                    "nf_sodium": 1.77,
+                    "nf_sugars": 0.57,
+                    "nf_protein": 15.35
+                }
+            },
+            "Cajun Potatoes": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 160.89,
+                    "nf_total_fat": 0.22,
+                    "nf_sodium": 17.3,
+                    "nf_sugars": 2.04,
+                    "nf_protein": 4.33
+                }
+            },
+            "Roasted Corn": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 175.45,
+                    "nf_total_fat": 7.71,
+                    "nf_sodium": 67.32,
+                    "nf_sugars": 9.08,
+                    "nf_protein": 4.8
+                }
+            },
+            "Mixed Peppers": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 31.54,
+                    "nf_total_fat": 0.23,
+                    "nf_sodium": 2.28,
+                    "nf_sugars": 2.88,
+                    "nf_protein": 1.08
+                }
+            },
+            "Green Beans with Tomatoes": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 43.75,
+                    "nf_total_fat": 0.35,
+                    "nf_sodium": 1.25,
+                    "nf_sugars": 4.54,
+                    "nf_protein": 2.36
+                }
+            },
+            "Kale and Onions": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 36.4,
+                    "nf_total_fat": 0.52,
+                    "nf_sodium": 29.9,
+                    "nf_sugars": 1.63,
+                    "nf_protein": 2.47
+                }
+            },
+            "Roasted Carrots": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 108.88,
+                    "nf_total_fat": 5.77,
+                    "nf_sodium": 573.59,
+                    "nf_sugars": 6.95,
+                    "nf_protein": 1.43
+                }
+            },
+            "Cauliflower": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 132.25,
+                    "nf_total_fat": 2.59,
+                    "nf_sodium": 86.25,
+                    "nf_sugars": 11.96,
+                    "nf_protein": 10.58
+                }
+            },
+            "Taco Beef": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 340.89,
+                    "nf_total_fat": 19.14,
+                    "nf_sodium": 1015.72,
+                    "nf_sugars": 1.38,
+                    "nf_protein": 30.35
+                }
+            },
+            "Taco Shredded Chicken": {
+                "type": [],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 210.12,
+                    "nf_total_fat": 9.95,
+                    "nf_sodium": 571.2,
+                    "nf_sugars": 1.6,
+                    "nf_protein": 9.44
+                }
+            },
+            "Taco Pulled Pork": {
+                "type": [],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 210.12,
+                    "nf_total_fat": 9.95,
+                    "nf_sodium": 571.2,
+                    "nf_sugars": 1.6,
+                    "nf_protein": 9.44
+                }
+            },
+            "Black Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 227.04,
+                    "nf_total_fat": 0.93,
+                    "nf_sodium": 1.72,
+                    "nf_sugars": 0.55,
+                    "nf_protein": 15.24
+                }
+            },
+            "Queso": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 70.73,
+                    "nf_total_fat": 4.99,
+                    "nf_sodium": 396.17,
+                    "nf_sugars": 1.83,
+                    "nf_protein": 3.79
+                }
+            },
+            "Mexican Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 279.07,
+                    "nf_total_fat": 12.01,
+                    "nf_sodium": 317.58,
+                    "nf_sugars": 3.42,
+                    "nf_protein": 5.97
+                }
+            },
+            "Pico de Gallo": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 14.47,
+                    "nf_total_fat": 0.17,
+                    "nf_sodium": 194.51,
+                    "nf_sugars": 1.63,
+                    "nf_protein": 0.64
+                }
+            },
+            "Sour Cream": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 23.76,
+                    "nf_total_fat": 2.32,
+                    "nf_sodium": 3.72,
+                    "nf_sugars": 0.41,
+                    "nf_protein": 0.29
+                }
+            },
+            "Guacamole": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 45.26,
+                    "nf_total_fat": 4.09,
+                    "nf_sodium": 127.42,
+                    "nf_sugars": 0.16,
+                    "nf_protein": 0.55
+                }
+            },
+            "Shredded Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 114.13,
+                    "nf_total_fat": 9.41,
+                    "nf_sodium": 184.47,
+                    "nf_sugars": 0.14,
+                    "nf_protein": 6.46
+                }
+            },
+            "Shredded Lettuce": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 7.99,
+                    "nf_total_fat": 0.14,
+                    "nf_sodium": 3.76,
+                    "nf_sugars": 0.56,
+                    "nf_protein": 0.58
+                }
+            },
+            "Jalapenos": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 4.06,
+                    "nf_total_fat": 0.05,
+                    "nf_sodium": 0.42,
+                    "nf_sugars": 0.58,
+                    "nf_protein": 0.13
+                }
+            },
+            "Flour Tortillas": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 159.25,
+                    "nf_total_fat": 3.48,
+                    "nf_sodium": 234.22,
+                    "nf_sugars": null,
+                    "nf_protein": 4.26
+                }
+            },
+            "Corn Tortilla Chips": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Tech Taqueria",
+                "nutritionData": {
+                    "nf_calories": 14.16,
+                    "nf_total_fat": 0.62,
+                    "nf_sodium": 9.84,
+                    "nf_sugars": 0.02,
+                    "nf_protein": 0.21
+                }
+            },
+            "Vanilla Yogurt": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 144.5,
+                    "nf_total_fat": 2.13,
+                    "nf_sodium": 112.2,
+                    "nf_sugars": 23.46,
+                    "nf_protein": 8.38
+                }
+            },
+            "Strawberry Yogurt": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 168.3,
+                    "nf_total_fat": 1.96,
+                    "nf_sodium": 90.1,
+                    "nf_sugars": 31.69,
+                    "nf_protein": 6.77
+                }
+            },
+            "Dairy Free Yogurt": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 107.1,
+                    "nf_total_fat": 2.64,
+                    "nf_sodium": 119,
+                    "nf_sugars": 11.97,
+                    "nf_protein": 8.93
+                }
+            },
+            "Greek Yogurt": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 100.3,
+                    "nf_total_fat": 0.66,
+                    "nf_sodium": 61.2,
+                    "nf_sugars": 5.51,
+                    "nf_protein": 17.32
+                }
+            },
+            "Fresh Fruit": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 96.62,
+                    "nf_total_fat": 0.47,
+                    "nf_sodium": 2.65,
+                    "nf_sugars": 16.45,
+                    "nf_protein": 1.36
+                }
+            },
+            "Honey N` Oats Granola": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 63.84,
+                    "nf_total_fat": 0,
+                    "nf_sodium": 0.84,
+                    "nf_sugars": 17.25,
+                    "nf_protein": 0.06
+                }
+            },
+            "Cottage Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Fruit",
+                "nutritionData": {
+                    "nf_calories": 106.58,
+                    "nf_total_fat": 4.68,
+                    "nf_sodium": 395.85,
+                    "nf_sugars": 2.9,
+                    "nf_protein": 12.09
+                }
+            }
+        }
+    },
+    "north-ave-dining-hall": {
+        "breakfast": {
+            "MTO Omelets": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 323.47,
+                    "nf_total_fat": 25.32,
+                    "nf_sodium": 533.35,
+                    "nf_sugars": 0.62,
+                    "nf_protein": 21.13
+                }
+            },
+            "Liquid Eggs": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 71.5,
+                    "nf_total_fat": 4.76,
+                    "nf_sodium": 71,
+                    "nf_sugars": 0.19,
+                    "nf_protein": 6.28
+                }
+            },
+            "Diced Ham": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 186.26,
+                    "nf_total_fat": 6.83,
+                    "nf_sodium": 1309.18,
+                    "nf_sugars": 1.42,
+                    "nf_protein": 29.72
+                }
+            },
+            "Bacon": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 161.46,
+                    "nf_total_fat": 12.11,
+                    "nf_sodium": 580.98,
+                    "nf_sugars": 0,
+                    "nf_protein": 11.7
+                }
+            },
+            "Sausage Crumbles": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 210.12,
+                    "nf_total_fat": 19.2,
+                    "nf_sodium": 562.36,
+                    "nf_sugars": 0.64,
+                    "nf_protein": 8.15
+                }
+            },
+            "Diced Chicken": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 187,
+                    "nf_total_fat": 11.11,
+                    "nf_sodium": 60.35,
+                    "nf_sugars": null,
+                    "nf_protein": 20.37
+                }
+            },
+            "Diced Tomatoes": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 30.4,
+                    "nf_total_fat": 0.48,
+                    "nf_sodium": 218.5,
+                    "nf_sugars": 4.85,
+                    "nf_protein": 1.5
+                }
+            },
+            "Spinach": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 41.4,
+                    "nf_total_fat": 0.47,
+                    "nf_sodium": 126,
+                    "nf_sugars": 0.77,
+                    "nf_protein": 5.35
+                }
+            },
+            "Chopped Bell Peppers": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 31.54,
+                    "nf_total_fat": 0.23,
+                    "nf_sodium": 2.28,
+                    "nf_sugars": 2.88,
+                    "nf_protein": 1.08
+                }
+            },
+            "Cheddar Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 114.53,
+                    "nf_total_fat": 9.44,
+                    "nf_sodium": 185.13,
+                    "nf_sugars": 0.14,
+                    "nf_protein": 6.48
+                }
+            },
+            "Mozzarella Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 85.05,
+                    "nf_total_fat": 6.34,
+                    "nf_sodium": 177.75,
+                    "nf_sugars": 0.29,
+                    "nf_protein": 6.29
+                }
+            },
+            "Diced Onions": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 41.36,
+                    "nf_total_fat": 0.18,
+                    "nf_sodium": 2.82,
+                    "nf_sugars": 4.45,
+                    "nf_protein": 1.28
+                }
+            },
+            "Sliced Mushrooms": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 3.36,
+                    "nf_total_fat": 0.06,
+                    "nf_sodium": 0.24,
+                    "nf_sugars": 0.28,
+                    "nf_protein": 0.26
+                }
+            },
+            "Sour Cream": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 23.76,
+                    "nf_total_fat": 2.32,
+                    "nf_sodium": 3.72,
+                    "nf_sugars": 0.41,
+                    "nf_protein": 0.29
+                }
+            },
+            "Jalapenos": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 4.06,
+                    "nf_total_fat": 0.05,
+                    "nf_sodium": 0.42,
+                    "nf_sugars": 0.58,
+                    "nf_protein": 0.13
+                }
+            },
+            "Pico de Gallo": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 14.47,
+                    "nf_total_fat": 0.17,
+                    "nf_sodium": 194.51,
+                    "nf_sugars": 1.63,
+                    "nf_protein": 0.64
+                }
+            },
+            "Pork Sausage Link": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 149.5,
+                    "nf_total_fat": 12.54,
+                    "nf_sodium": 374.44,
+                    "nf_sugars": 0.5,
+                    "nf_protein": 8.52
+                }
+            },
+            "Chicken Patty": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 172.2,
+                    "nf_total_fat": 11.75,
+                    "nf_sodium": 319.2,
+                    "nf_sugars": 0,
+                    "nf_protein": 8.91
+                }
+            },
+            "Scrambled Eggs with Cheese": {
+                "type": [],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 123.21,
+                    "nf_total_fat": 9.36,
+                    "nf_sodium": 140.69,
+                    "nf_sugars": 0.89,
+                    "nf_protein": 7.92
+                }
+            },
+            "Scrambled Eggs": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 90.89,
+                    "nf_total_fat": 6.7,
+                    "nf_sodium": 88.45,
+                    "nf_sugars": 0.85,
+                    "nf_protein": 6.09
+                }
+            },
+            "Buttermilk Biscuit": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 211.8,
+                    "nf_total_fat": 9.78,
+                    "nf_sodium": 348,
+                    "nf_sugars": 1.31,
+                    "nf_protein": 4.2
+                }
+            },
+            "Sawmill Gravy": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 27.36,
+                    "nf_total_fat": 1.49,
+                    "nf_sodium": 221.73,
+                    "nf_sugars": 0.17,
+                    "nf_protein": 0.4
+                }
+            },
+            "French Toast Sticks": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 370.6,
+                    "nf_total_fat": 19.34,
+                    "nf_sodium": 436,
+                    "nf_sugars": 10.78,
+                    "nf_protein": 6.54
+                }
+            },
+            "Tater Tots": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 161.28,
+                    "nf_total_fat": 7.6,
+                    "nf_sodium": 388.92,
+                    "nf_sugars": 0.23,
+                    "nf_protein": 1.79
+                }
+            },
+            "Hardboiled Egg": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 77.5,
+                    "nf_total_fat": 5.31,
+                    "nf_sodium": 62,
+                    "nf_sugars": 0.56,
+                    "nf_protein": 6.29
+                }
+            },
+            "Grits": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 151.45,
+                    "nf_total_fat": 0.91,
+                    "nf_sodium": 4.66,
+                    "nf_sugars": 0.21,
+                    "nf_protein": 2.87
+                }
+            },
+            "Chocolate Overnight Oats": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 37.45,
+                    "nf_total_fat": 2.08,
+                    "nf_sodium": 5.53,
+                    "nf_sugars": 3.61,
+                    "nf_protein": 0.54
+                }
+            },
+            "Vegan Sausage Patty": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 87.75,
+                    "nf_total_fat": 7.36,
+                    "nf_sodium": 219.78,
+                    "nf_sugars": 0.29,
+                    "nf_protein": 5
+                }
+            },
+            "Turkey Sausage": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 147,
+                    "nf_total_fat": 7.83,
+                    "nf_sodium": 498.75,
+                    "nf_sugars": 0,
+                    "nf_protein": 17.92
+                }
+            },
+            "Tofu Scramble": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 75.53,
+                    "nf_total_fat": 4.79,
+                    "nf_sodium": 3.64,
+                    "nf_sugars": 0.65,
+                    "nf_protein": 9.08
+                }
+            },
+            "Oatmeal": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 166.14,
+                    "nf_total_fat": 3.56,
+                    "nf_sodium": 9.36,
+                    "nf_sugars": 0.63,
+                    "nf_protein": 5.94
+                }
+            },
+            "Biscuit": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 211.8,
+                    "nf_total_fat": 9.78,
+                    "nf_sodium": 348,
+                    "nf_sugars": 1.31,
+                    "nf_protein": 4.2
+                }
+            },
+            "Strawberry Jelly": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 55.86,
+                    "nf_total_fat": 0,
+                    "nf_sodium": 6.3,
+                    "nf_sugars": 10.76,
+                    "nf_protein": 0.03
+                }
+            },
+            "Grape Jelly": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 55.86,
+                    "nf_total_fat": 0,
+                    "nf_sodium": 6.3,
+                    "nf_sugars": 10.76,
+                    "nf_protein": 0.03
+                }
+            },
+            "Brown Sugar": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 11.4,
+                    "nf_total_fat": 0,
+                    "nf_sodium": 0.84,
+                    "nf_sugars": 2.91,
+                    "nf_protein": 0
+                }
+            },
+            "Butter Chips": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 101.81,
+                    "nf_total_fat": 11.52,
+                    "nf_sodium": 91.31,
+                    "nf_sugars": 0.01,
+                    "nf_protein": 0.12
+                }
+            },
+            "Cream Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 101.5,
+                    "nf_total_fat": 9.99,
+                    "nf_sodium": 91.06,
+                    "nf_sugars": 1.09,
+                    "nf_protein": 1.78
+                }
+            },
+            "Avocado": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 321.6,
+                    "nf_total_fat": 29.47,
+                    "nf_sodium": 14.07,
+                    "nf_sugars": 1.33,
+                    "nf_protein": 4.02
+                }
+            },
+            "Goat Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 74.84,
+                    "nf_total_fat": 5.98,
+                    "nf_sodium": 130.13,
+                    "nf_sugars": 0,
+                    "nf_protein": 5.25
+                }
+            },
+            "Dried Cranberries": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 123.2,
+                    "nf_total_fat": 0.44,
+                    "nf_sodium": 2,
+                    "nf_sugars": 29.02,
+                    "nf_protein": 0.07
+                }
+            },
+            "GF Sliced Bread": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 97.89,
+                    "nf_total_fat": 1.23,
+                    "nf_sodium": 180.32,
+                    "nf_sugars": 2.09,
+                    "nf_protein": 3.26
+                }
+            },
+            "GF Blueberry Muffins": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 423.75,
+                    "nf_total_fat": 18.16,
+                    "nf_sodium": 379.68,
+                    "nf_sugars": 35.56,
+                    "nf_protein": 5.07
+                }
+            },
+            "GF Donuts": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 252.6,
+                    "nf_total_fat": 13.62,
+                    "nf_sodium": 189.6,
+                    "nf_sugars": 13.65,
+                    "nf_protein": 3.68
+                }
+            },
+            "GF English Muffins": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 133.95,
+                    "nf_total_fat": 1.03,
+                    "nf_sodium": 264.48,
+                    "nf_sugars": null,
+                    "nf_protein": 4.39
+                }
+            },
+            "GF Bagels": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 277.2,
+                    "nf_total_fat": 1.39,
+                    "nf_sodium": 443.1,
+                    "nf_sugars": 8.85,
+                    "nf_protein": 11.09
+                }
+            },
+            "Plain Bagel": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 277.2,
+                    "nf_total_fat": 1.39,
+                    "nf_sodium": 443.1,
+                    "nf_sugars": 8.85,
+                    "nf_protein": 11.09
+                }
+            },
+            "Blueberry Bagel": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 287.75,
+                    "nf_total_fat": 1.45,
+                    "nf_sodium": 443.29,
+                    "nf_sugars": 10.69,
+                    "nf_protein": 11.22
+                }
+            },
+            "Sesame Bagels": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 317.24,
+                    "nf_total_fat": 4.79,
+                    "nf_sodium": 443.88,
+                    "nf_sugars": 8.85,
+                    "nf_protein": 12.29
+                }
+            },
+            "Cinnamon Raisin Bagel": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 358.94,
+                    "nf_total_fat": 2.23,
+                    "nf_sodium": 450.64,
+                    "nf_sugars": 7.83,
+                    "nf_protein": 12.84
+                }
+            },
+            "Multigrain Bagels": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 289.2,
+                    "nf_total_fat": 1.49,
+                    "nf_sodium": 430.8,
+                    "nf_sugars": 10.39,
+                    "nf_protein": 11.88
+                }
+            },
+            "Everything Bagel": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 277.2,
+                    "nf_total_fat": 1.39,
+                    "nf_sodium": 443.1,
+                    "nf_sugars": 8.85,
+                    "nf_protein": 11.09
+                }
+            }
+        },
+        "lunch": {
+            "Cheese Pizza": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 452.2,
+                    "nf_total_fat": 16.47,
+                    "nf_sodium": 1016.6,
+                    "nf_sugars": 6.09,
+                    "nf_protein": 19.36
+                }
+            },
+            "Pepperoni Pizza": {
+                "type": [],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 313.02,
+                    "nf_total_fat": 13.22,
+                    "nf_sodium": 760.35,
+                    "nf_sugars": 3.62,
+                    "nf_protein": 13.03
+                }
+            },
+            "Supreme Pizza": {
+                "type": [],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 284.62,
+                    "nf_total_fat": 10.37,
+                    "nf_sodium": 639.86,
+                    "nf_sugars": 3.83,
+                    "nf_protein": 12.19
+                }
+            },
+            "Sundried Tomato Flatbread Pizza": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 5.16,
+                    "nf_total_fat": 0.06,
+                    "nf_sodium": 2.14,
+                    "nf_sugars": 0.75,
+                    "nf_protein": 0.28
+                }
+            },
+            "BBQ Chicken Pizza": {
+                "type": [],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 539.72,
+                    "nf_total_fat": 20.88,
+                    "nf_sodium": 1170.23,
+                    "nf_sugars": 10.36,
+                    "nf_protein": 30.07
+                }
+            },
+            "Hot Turkey Pita Sandwich": {
+                "type": [],
+                "restaurant": "Techwich/Deli Bar",
+                "nutritionData": {
+                    "nf_calories": 534.78,
+                    "nf_total_fat": 24.1,
+                    "nf_sodium": 1964.74,
+                    "nf_sugars": 9.58,
+                    "nf_protein": 29.06
+                }
+            },
+            "Vegetarian Cuban Wrap": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "Techwich/Deli Bar",
+                "nutritionData": {
+                    "nf_calories": 715.3,
+                    "nf_total_fat": 44.52,
+                    "nf_sodium": 1293.22,
+                    "nf_sugars": 9.49,
+                    "nf_protein": 41.11
+                }
+            },
+            "Dry Rub Brisket": {
+                "type": [],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 245.65,
+                    "nf_total_fat": 15.66,
+                    "nf_sodium": 40.8,
+                    "nf_sugars": 0,
+                    "nf_protein": 24.5
+                }
+            },
+            "Spicy Chipotle Grilled Chicken": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 13.93,
+                    "nf_total_fat": 0.25,
+                    "nf_sodium": 3.91,
+                    "nf_sugars": 1.77,
+                    "nf_protein": 0.45
+                }
+            },
+            "Broccoli and Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 227.69,
+                    "nf_total_fat": 14.41,
+                    "nf_sodium": 279.92,
+                    "nf_sugars": 2.12,
+                    "nf_protein": 11.05
+                }
+            },
+            "Sugar Snap Peas": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 1.09,
+                    "nf_total_fat": 0.01,
+                    "nf_sodium": 0.1,
+                    "nf_sugars": 0.1,
+                    "nf_protein": 0.09
+                }
+            },
+            "Potato Wedges": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 27.46,
+                    "nf_total_fat": 1.3,
+                    "nf_sodium": 18.48,
+                    "nf_sugars": 0.03,
+                    "nf_protein": 0.3
+                }
+            },
+            "Wild Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 165.64,
+                    "nf_total_fat": 0.56,
+                    "nf_sodium": 4.92,
+                    "nf_sugars": 1.2,
+                    "nf_protein": 6.54
+                }
+            },
+            "Cheddar Corn Muffins": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 114.53,
+                    "nf_total_fat": 9.44,
+                    "nf_sodium": 185.13,
+                    "nf_sugars": 0.14,
+                    "nf_protein": 6.48
+                }
+            },
+            "Hamburger Patty (Halal)": {
+                "type": [
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 197.2,
+                    "nf_total_fat": 11.92,
+                    "nf_sodium": 67.15,
+                    "nf_sugars": 0,
+                    "nf_protein": 20.93
+                }
+            },
+            "Lemon Pepper Chicken": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 227.98,
+                    "nf_total_fat": 10.94,
+                    "nf_sodium": 128.76,
+                    "nf_sugars": 0.28,
+                    "nf_protein": 27.23
+                }
+            },
+            "Grilled Turkey Burger": {
+                "type": [],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 554.07,
+                    "nf_total_fat": 35.3,
+                    "nf_sodium": 569.23,
+                    "nf_sugars": 4.29,
+                    "nf_protein": 33.5
+                }
+            },
+            "Hot Dog": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 154.56,
+                    "nf_total_fat": 14.09,
+                    "nf_sodium": 408.96,
+                    "nf_sugars": 0.61,
+                    "nf_protein": 5.61
+                }
+            },
+            "Hot Dog Bun": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 144.56,
+                    "nf_total_fat": 1.96,
+                    "nf_sodium": 260,
+                    "nf_sugars": 3.31,
+                    "nf_protein": 5.13
+                }
+            },
+            "Beyond Burgers": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 540.14,
+                    "nf_total_fat": 26.56,
+                    "nf_sodium": 791,
+                    "nf_sugars": null,
+                    "nf_protein": 34.28
+                }
+            },
+            "Tater Tots": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 161.28,
+                    "nf_total_fat": 7.6,
+                    "nf_sodium": 388.92,
+                    "nf_sugars": 0.23,
+                    "nf_protein": 1.79
+                }
+            },
+            "Beer Battered Cheese Curds": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 153.08,
+                    "nf_total_fat": 0,
+                    "nf_sodium": 14.24,
+                    "nf_sugars": 0,
+                    "nf_protein": 1.64
+                }
+            },
+            "Hamburger Bun": {
+                "type": [
+                    "Vegan",
+                    "Halal"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 127.88,
+                    "nf_total_fat": 1.73,
+                    "nf_sodium": 230,
+                    "nf_sugars": 2.93,
+                    "nf_protein": 4.54
+                }
+            },
+            "Beef and Barley Soup": {
+                "type": [],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 216.32,
+                    "nf_total_fat": 3.99,
+                    "nf_sodium": 1235.52,
+                    "nf_sugars": 5.08,
+                    "nf_protein": 11.69
+                }
+            },
+            "7 Bean Vegetarian Soup": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 1573.53,
+                    "nf_total_fat": 6.2,
+                    "nf_sodium": 12.39,
+                    "nf_sugars": 3.96,
+                    "nf_protein": 107.42
+                }
+            },
+            "Chicken Salad": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 253.99,
+                    "nf_total_fat": 17.78,
+                    "nf_sodium": 226.33,
+                    "nf_sugars": 2.41,
+                    "nf_protein": 19.18
+                }
+            },
+            "Roasted Red Pepper Hummus": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 549.53,
+                    "nf_total_fat": 26.69,
+                    "nf_sodium": 952.95,
+                    "nf_sugars": 9.51,
+                    "nf_protein": 22.56
+                }
+            },
+            "Pasta Salad": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 407.41,
+                    "nf_total_fat": 24.48,
+                    "nf_sodium": 707.83,
+                    "nf_sugars": 2.98,
+                    "nf_protein": 11.97
+                }
+            },
+            "Three Bean Salad": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 184.87,
+                    "nf_total_fat": 7.83,
+                    "nf_sodium": 242.06,
+                    "nf_sugars": 18.31,
+                    "nf_protein": 3.43
+                }
+            },
+            "Fried Chicken": {
+                "type": [],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 376.6,
+                    "nf_total_fat": 20.89,
+                    "nf_sodium": 117.6,
+                    "nf_sugars": 0,
+                    "nf_protein": 39.98
+                }
+            },
+            "Grilled Pork Chops in Gravy": {
+                "type": [],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 328.13,
+                    "nf_total_fat": 17.36,
+                    "nf_sodium": 86.35,
+                    "nf_sugars": 0,
+                    "nf_protein": 40.21
+                }
+            },
+            "Vegan Collard Greens": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 62.7,
+                    "nf_total_fat": 1.37,
+                    "nf_sodium": 28.5,
+                    "nf_sugars": 0.76,
+                    "nf_protein": 5.15
+                }
+            },
+            "Stewed Green Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 43.75,
+                    "nf_total_fat": 0.35,
+                    "nf_sodium": 1.25,
+                    "nf_sugars": 4.54,
+                    "nf_protein": 2.36
+                }
+            },
+            "Corn Bread Dressing": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 179,
+                    "nf_total_fat": 8.8,
+                    "nf_sodium": 526,
+                    "nf_sugars": 0,
+                    "nf_protein": 2.9
+                }
+            },
+            "Macaroni and Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 376.2,
+                    "nf_total_fat": 16.39,
+                    "nf_sodium": 669.24,
+                    "nf_sugars": 8.45,
+                    "nf_protein": 9.68
+                }
+            },
+            "Shredded Lettuce": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 7.99,
+                    "nf_total_fat": 0.14,
+                    "nf_sodium": 3.76,
+                    "nf_sugars": 0.56,
+                    "nf_protein": 0.58
+                }
+            },
+            "Pico de Gallo": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 14.47,
+                    "nf_total_fat": 0.17,
+                    "nf_sodium": 194.51,
+                    "nf_sugars": 1.63,
+                    "nf_protein": 0.64
+                }
+            },
+            "Salsa": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 10.44,
+                    "nf_total_fat": 0.06,
+                    "nf_sodium": 255.96,
+                    "nf_sugars": 1.44,
+                    "nf_protein": 0.55
+                }
+            },
+            "Sliced Red Onions": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 41.36,
+                    "nf_total_fat": 0.18,
+                    "nf_sodium": 2.82,
+                    "nf_sugars": 4.45,
+                    "nf_protein": 1.28
+                }
+            },
+            "Sour Cream": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 23.76,
+                    "nf_total_fat": 2.32,
+                    "nf_sodium": 3.72,
+                    "nf_sugars": 0.41,
+                    "nf_protein": 0.29
+                }
+            },
+            "Guacamole": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 45.26,
+                    "nf_total_fat": 4.09,
+                    "nf_sodium": 127.42,
+                    "nf_sugars": 0.16,
+                    "nf_protein": 0.55
+                }
+            },
+            "Shredded Cheddar Cheese": {
+                "type": [
+                    "Vegetarian",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Wok",
+                "nutritionData": {
+                    "nf_calories": 114.13,
+                    "nf_total_fat": 9.41,
+                    "nf_sodium": 184.47,
+                    "nf_sugars": 0.14,
+                    "nf_protein": 6.46
+                }
+            },
+            "Roasted Chicken": {
+                "type": [
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 189.55,
+                    "nf_total_fat": 11.38,
+                    "nf_sodium": 62.05,
+                    "nf_sugars": null,
+                    "nf_protein": 20.37
+                }
+            },
+            "Herb Steak": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 4.83,
+                    "nf_total_fat": 0.11,
+                    "nf_sodium": 3.46,
+                    "nf_sugars": 0.08,
+                    "nf_protein": 0.36
+                }
+            },
+            "Quinoa": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 111,
+                    "nf_total_fat": 1.78,
+                    "nf_sodium": 6.48,
+                    "nf_sugars": 0.8,
+                    "nf_protein": 4.07
+                }
+            },
+            "Steamed White Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 199.32,
+                    "nf_total_fat": 0.36,
+                    "nf_sodium": 6.6,
+                    "nf_sugars": null,
+                    "nf_protein": 4.22
+                }
+            },
+            "Squash": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 41.4,
+                    "nf_total_fat": 0.7,
+                    "nf_sodium": 1.8,
+                    "nf_sugars": 4.46,
+                    "nf_protein": 1.87
+                }
+            },
+            "Zucchini": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 30,
+                    "nf_total_fat": 0.72,
+                    "nf_sodium": 6,
+                    "nf_sugars": 3.42,
+                    "nf_protein": 2.28
+                }
+            },
+            "Seasoned Pinto Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 244.53,
+                    "nf_total_fat": 1.11,
+                    "nf_sodium": 1.71,
+                    "nf_sugars": 0.58,
+                    "nf_protein": 15.41
+                }
+            },
+            "Black Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 227.04,
+                    "nf_total_fat": 0.93,
+                    "nf_sodium": 1.72,
+                    "nf_sugars": 0.55,
+                    "nf_protein": 15.24
+                }
+            },
+            "Vegetarian Chicken Nuggets": {
+                "type": [
+                    "Vegan",
+                    "Halal"
+                ],
+                "restaurant": "Vega-byte",
+                "nutritionData": {
+                    "nf_calories": 64.52,
+                    "nf_total_fat": 1.73,
+                    "nf_sodium": 274.39,
+                    "nf_sugars": 1.07,
+                    "nf_protein": 3.34
+                }
+            },
+            "Roasted Rainbow Carrots": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vega-byte",
+                "nutritionData": {
+                    "nf_calories": 16.1,
+                    "nf_total_fat": 0.08,
+                    "nf_sodium": 26.68,
+                    "nf_sugars": 1.59,
+                    "nf_protein": 0.35
+                }
+            },
+            "Steamed Broccoli": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vega-byte",
+                "nutritionData": {
+                    "nf_calories": 27.3,
+                    "nf_total_fat": 0.32,
+                    "nf_sodium": 31.98,
+                    "nf_sugars": 1.08,
+                    "nf_protein": 1.86
+                }
+            },
+            "Steamed Jasmine Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vega-byte",
+                "nutritionData": {
+                    "nf_calories": 205.4,
+                    "nf_total_fat": 0.44,
+                    "nf_sodium": 1.58,
+                    "nf_sugars": 0.08,
+                    "nf_protein": 4.25
+                }
+            }
+        },
+        "dinner": {
+            "Cheese Pizza": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 452.2,
+                    "nf_total_fat": 16.47,
+                    "nf_sodium": 1016.6,
+                    "nf_sugars": 6.09,
+                    "nf_protein": 19.36
+                }
+            },
+            "Pepperoni Pizza": {
+                "type": [],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 313.02,
+                    "nf_total_fat": 13.22,
+                    "nf_sodium": 760.35,
+                    "nf_sugars": 3.62,
+                    "nf_protein": 13.03
+                }
+            },
+            "Supreme Pizza": {
+                "type": [],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 284.62,
+                    "nf_total_fat": 10.37,
+                    "nf_sodium": 639.86,
+                    "nf_sugars": 3.83,
+                    "nf_protein": 12.19
+                }
+            },
+            "Sundried Tomato Flatbread Pizza": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 5.16,
+                    "nf_total_fat": 0.06,
+                    "nf_sodium": 2.14,
+                    "nf_sugars": 0.75,
+                    "nf_protein": 0.28
+                }
+            },
+            "BBQ Chicken Pizza": {
+                "type": [],
+                "restaurant": "New York Pi",
+                "nutritionData": {
+                    "nf_calories": 539.72,
+                    "nf_total_fat": 20.88,
+                    "nf_sodium": 1170.23,
+                    "nf_sugars": 10.36,
+                    "nf_protein": 30.07
+                }
+            },
+            "Hot Turkey Pita Sandwich": {
+                "type": [],
+                "restaurant": "Techwich/Deli Bar",
+                "nutritionData": {
+                    "nf_calories": 534.78,
+                    "nf_total_fat": 24.1,
+                    "nf_sodium": 1964.74,
+                    "nf_sugars": 9.58,
+                    "nf_protein": 29.06
+                }
+            },
+            "Vegetarian Cuban Wrap": {
+                "type": [
+                    "Vegetarian",
+                    "Halal"
+                ],
+                "restaurant": "Techwich/Deli Bar",
+                "nutritionData": {
+                    "nf_calories": 715.3,
+                    "nf_total_fat": 44.52,
+                    "nf_sodium": 1293.22,
+                    "nf_sugars": 9.49,
+                    "nf_protein": 41.11
+                }
+            },
+            "Cajun Seasoned Tilapia": {
+                "type": [
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 217.6,
+                    "nf_total_fat": 4.51,
+                    "nf_sodium": 95.2,
+                    "nf_sugars": 0,
+                    "nf_protein": 44.46
+                }
+            },
+            "Cilantro Lime Chicken": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 0.92,
+                    "nf_total_fat": 0.02,
+                    "nf_sodium": 1.84,
+                    "nf_sugars": 0.03,
+                    "nf_protein": 0.09
+                }
+            },
+            "Roasted Fresh Vegetables": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 59.15,
+                    "nf_total_fat": 0.14,
+                    "nf_sodium": 31.85,
+                    "nf_sugars": 2.84,
+                    "nf_protein": 2.6
+                }
+            },
+            "Stewed Okra and Tomatoes": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 90.06,
+                    "nf_total_fat": 3.8,
+                    "nf_sodium": 392.68,
+                    "nf_sugars": 5.64,
+                    "nf_protein": 6.05
+                }
+            },
+            "Steamed White Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 199.32,
+                    "nf_total_fat": 0.36,
+                    "nf_sodium": 6.6,
+                    "nf_sugars": null,
+                    "nf_protein": 4.22
+                }
+            },
+            "Roasted Red Potatoes": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 179.6,
+                    "nf_total_fat": 8.63,
+                    "nf_sodium": 500.52,
+                    "nf_sugars": 1.67,
+                    "nf_protein": 2.72
+                }
+            },
+            "Dinner Rolls": {
+                "type": [
+                    "Vegan",
+                    "Halal"
+                ],
+                "restaurant": "Comfort Station",
+                "nutritionData": {
+                    "nf_calories": 76.44,
+                    "nf_total_fat": 1.76,
+                    "nf_sodium": 146.72,
+                    "nf_sugars": 0.46,
+                    "nf_protein": 2.41
+                }
+            },
+            "Hamburger Patty (Halal)": {
+                "type": [
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 197.2,
+                    "nf_total_fat": 11.92,
+                    "nf_sodium": 67.15,
+                    "nf_sugars": 0,
+                    "nf_protein": 20.93
+                }
+            },
+            "Lemon Pepper Chicken": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 227.98,
+                    "nf_total_fat": 10.94,
+                    "nf_sodium": 128.76,
+                    "nf_sugars": 0.28,
+                    "nf_protein": 27.23
+                }
+            },
+            "Grilled Turkey Burger": {
+                "type": [],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 554.07,
+                    "nf_total_fat": 35.3,
+                    "nf_sodium": 569.23,
+                    "nf_sugars": 4.29,
+                    "nf_protein": 33.5
+                }
+            },
+            "Hot Dog": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 154.56,
+                    "nf_total_fat": 14.09,
+                    "nf_sodium": 408.96,
+                    "nf_sugars": 0.61,
+                    "nf_protein": 5.61
+                }
+            },
+            "Hot Dog Bun": {
+                "type": [
+                    "Vegan"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 144.56,
+                    "nf_total_fat": 1.96,
+                    "nf_sodium": 260,
+                    "nf_sugars": 3.31,
+                    "nf_protein": 5.13
+                }
+            },
+            "Beyond Burgers": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 540.14,
+                    "nf_total_fat": 26.56,
+                    "nf_sodium": 791,
+                    "nf_sugars": null,
+                    "nf_protein": 34.28
+                }
+            },
+            "Tater Tots": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 161.28,
+                    "nf_total_fat": 7.6,
+                    "nf_sodium": 388.92,
+                    "nf_sugars": 0.23,
+                    "nf_protein": 1.79
+                }
+            },
+            "Beer Battered Cheese Curds": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 153.08,
+                    "nf_total_fat": 0,
+                    "nf_sodium": 14.24,
+                    "nf_sugars": 0,
+                    "nf_protein": 1.64
+                }
+            },
+            "Grilled Chicken Thighs": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 278.2,
+                    "nf_total_fat": 17.95,
+                    "nf_sodium": 226.2,
+                    "nf_sugars": 0,
+                    "nf_protein": 30.51
+                }
+            },
+            "Hamburger Bun": {
+                "type": [
+                    "Vegan",
+                    "Halal"
+                ],
+                "restaurant": "Firewall Grill",
+                "nutritionData": {
+                    "nf_calories": 127.88,
+                    "nf_total_fat": 1.73,
+                    "nf_sodium": 230,
+                    "nf_sugars": 2.93,
+                    "nf_protein": 4.54
+                }
+            },
+            "Beef and Barley Soup": {
+                "type": [],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 216.32,
+                    "nf_total_fat": 3.99,
+                    "nf_sodium": 1235.52,
+                    "nf_sugars": 5.08,
+                    "nf_protein": 11.69
+                }
+            },
+            "7 Bean Vegetarian Soup": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 1573.53,
+                    "nf_total_fat": 6.2,
+                    "nf_sodium": 12.39,
+                    "nf_sugars": 3.96,
+                    "nf_protein": 107.42
+                }
+            },
+            "Chicken Salad": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 253.99,
+                    "nf_total_fat": 17.78,
+                    "nf_sodium": 226.33,
+                    "nf_sugars": 2.41,
+                    "nf_protein": 19.18
+                }
+            },
+            "Roasted Red Pepper Hummus": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 549.53,
+                    "nf_total_fat": 26.69,
+                    "nf_sodium": 952.95,
+                    "nf_sugars": 9.51,
+                    "nf_protein": 22.56
+                }
+            },
+            "Pasta Salad": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 407.41,
+                    "nf_total_fat": 24.48,
+                    "nf_sodium": 707.83,
+                    "nf_sugars": 2.98,
+                    "nf_protein": 11.97
+                }
+            },
+            "Three Bean Salad": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Salad Bar",
+                "nutritionData": {
+                    "nf_calories": 184.87,
+                    "nf_total_fat": 7.83,
+                    "nf_sodium": 242.06,
+                    "nf_sugars": 18.31,
+                    "nf_protein": 3.43
+                }
+            },
+            "Taco Ground Beef": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 340.89,
+                    "nf_total_fat": 19.14,
+                    "nf_sodium": 1015.72,
+                    "nf_sugars": 1.38,
+                    "nf_protein": 30.35
+                }
+            },
+            "Taco Shredded Chicken": {
+                "type": [],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 210.12,
+                    "nf_total_fat": 9.95,
+                    "nf_sodium": 571.2,
+                    "nf_sugars": 1.6,
+                    "nf_protein": 9.44
+                }
+            },
+            "Seasoned Pinto Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 244.53,
+                    "nf_total_fat": 1.11,
+                    "nf_sodium": 1.71,
+                    "nf_sugars": 0.58,
+                    "nf_protein": 15.41
+                }
+            },
+            "Nacho Cheese Sauce": {
+                "type": [
+                    "Vegetarian"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 57.26,
+                    "nf_total_fat": 4.16,
+                    "nf_sodium": 232.73,
+                    "nf_sugars": 0.65,
+                    "nf_protein": 2.48
+                }
+            },
+            "Yellow Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 252.31,
+                    "nf_total_fat": 6.68,
+                    "nf_sodium": 553.79,
+                    "nf_sugars": 0.45,
+                    "nf_protein": 3.74
+                }
+            },
+            "Tortilla": {
+                "type": [],
+                "restaurant": "International Import",
+                "nutritionData": {
+                    "nf_calories": 159.25,
+                    "nf_total_fat": 3.48,
+                    "nf_sodium": 234.22,
+                    "nf_sugars": null,
+                    "nf_protein": 4.26
+                }
+            },
+            "Roasted Chicken": {
+                "type": [
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 189.55,
+                    "nf_total_fat": 11.38,
+                    "nf_sodium": 62.05,
+                    "nf_sugars": null,
+                    "nf_protein": 20.37
+                }
+            },
+            "Herb Steak": {
+                "type": [
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 4.83,
+                    "nf_total_fat": 0.11,
+                    "nf_sodium": 3.46,
+                    "nf_sugars": 0.08,
+                    "nf_protein": 0.36
+                }
+            },
+            "Quinoa": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 111,
+                    "nf_total_fat": 1.78,
+                    "nf_sodium": 6.48,
+                    "nf_sugars": 0.8,
+                    "nf_protein": 4.07
+                }
+            },
+            "Squash": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 41.4,
+                    "nf_total_fat": 0.7,
+                    "nf_sodium": 1.8,
+                    "nf_sugars": 4.46,
+                    "nf_protein": 1.87
+                }
+            },
+            "Zucchini": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 30,
+                    "nf_total_fat": 0.72,
+                    "nf_sodium": 6,
+                    "nf_sugars": 3.42,
+                    "nf_protein": 2.28
+                }
+            },
+            "Black Beans": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly"
+                ],
+                "restaurant": "Mindful Bytes",
+                "nutritionData": {
+                    "nf_calories": 227.04,
+                    "nf_total_fat": 0.93,
+                    "nf_sodium": 1.72,
+                    "nf_sugars": 0.55,
+                    "nf_protein": 15.24
+                }
+            },
+            "Vegetarian Chicken Nuggets": {
+                "type": [
+                    "Vegan",
+                    "Halal"
+                ],
+                "restaurant": "Vega-byte",
+                "nutritionData": {
+                    "nf_calories": 64.52,
+                    "nf_total_fat": 1.73,
+                    "nf_sodium": 274.39,
+                    "nf_sugars": 1.07,
+                    "nf_protein": 3.34
+                }
+            },
+            "Roasted Rainbow Carrots": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vega-byte",
+                "nutritionData": {
+                    "nf_calories": 16.1,
+                    "nf_total_fat": 0.08,
+                    "nf_sodium": 26.68,
+                    "nf_sugars": 1.59,
+                    "nf_protein": 0.35
+                }
+            },
+            "Steamed Broccoli": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vega-byte",
+                "nutritionData": {
+                    "nf_calories": 27.3,
+                    "nf_total_fat": 0.32,
+                    "nf_sodium": 31.98,
+                    "nf_sugars": 1.08,
+                    "nf_protein": 1.86
+                }
+            },
+            "Steamed Jasmine Rice": {
+                "type": [
+                    "Vegan",
+                    "Gluten Friendly",
+                    "Halal"
+                ],
+                "restaurant": "Vega-byte",
+                "nutritionData": {
+                    "nf_calories": 205.4,
+                    "nf_total_fat": 0.44,
+                    "nf_sodium": 1.58,
+                    "nf_sugars": 0.08,
+                    "nf_protein": 4.25
+                }
+            }
+        }
+    },
+    "brittain": {
+        "breakfast": {},
+        "lunch": {},
+        "dinner": {}
+    }
+}

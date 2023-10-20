@@ -67,7 +67,7 @@ async function genMeal() {
     let hall = hallForm.value;
     let timing = timeForm.value;
     
-    const url = `http://172.20.10.2:8000/api/${hall}/${timing}/${calGoal}/['${restrictions}']`;
+    const url = `http://172.20.10.8:8000/api/${hall}/${timing}/${calGoal}/['${restrictions}']`;
 
     const response = await fetch(url);
     const meals = await response.json();
